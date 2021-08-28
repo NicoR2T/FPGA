@@ -1,0 +1,10 @@
+/!\YOU NEED TO BE IN THE SRC DIRECTORY TO COMPILE AND EXECUTE THE PROGRAM /!\
+
+How to compile and execute:
+
+	-> make
+	-> ./main [input_file] K [output_file]
+
+For example with the sample file and 3-LUT:
+	-> make
+	-> ./main ../testcase/sample.aag 3 ../output/sample.out
